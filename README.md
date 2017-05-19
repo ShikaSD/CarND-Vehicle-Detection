@@ -11,7 +11,7 @@ I started the project from reading the provided vehicle and non-vehicle datasets
 
 #### Extraction of the features from the training images.
 
-The code for this step is contained in the seventh code cell of the [IPython notebook](./project_video_result.mp4).
+The code for this step is contained in the seventh code cell of the [IPython notebook](./project.ipynb).
 
 I then explored different color spaces and different `skimage.hog()` parameters (`orientations`, `pixels_per_cell`, and `cells_per_block`).  I grabbed random images from each of the two classes and displayed them to get a feel for what the `skimage.hog()` output looks like.
 
